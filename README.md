@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SeetaPatelrgb
 - 👀 I’m interested in devloping frontend
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning react
 - ⚡ Fun fact: ...
 
 <!---
